@@ -1,0 +1,67 @@
+header h1{
+    color: crimson;
+    background-color: blue;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 5px dotted gold;
+}
+
+nav{
+    background-color: red;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 15px;
+    border: 5px dashed black;
+}
+
+nav a{
+    color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: white;
+    border: 2px solid indigo;
+}
+
+main{
+    background-color: chocolate;
+}
+
+main p{
+    color:blue;
+    font-size: 18px;
+}
+
+main h2{
+    font-size: 25px;
+    color: lime;
+}
+
+main h3{
+    font-size: 25px;
+    color: lime;
+}
+
+main h4{
+    font-size: 25px;
+    color: lime;
+}
+
+footer{
+    background-color: black;
+}
+
+footer h5{
+    color: snow;
+    font-size: 25px;
+}
+
+footer p{
+    color: white;
+    font-size: 18px;
+}
+
+img{
+    border: 5px solid lime;
+}
